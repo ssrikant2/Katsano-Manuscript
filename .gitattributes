@@ -1,1 +1,4 @@
 *gz filter=lfs diff=lfs merge=lfs -text
+Data/ChIP-seq/combinedDatasetsChIPseqOverlap.csv filter=lfs diff=lfs merge=lfs -text
+Data/ATAC-seq/combinedDatasetsATACseqOverlap.csv filter=lfs diff=lfs merge=lfs -text
+Data/DHS/combinedDatasetsDHSOverlap.csv filter=lfs diff=lfs merge=lfs -text
